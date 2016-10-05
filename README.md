@@ -1,10 +1,11 @@
 Intento resolver el reto propuesto en:
-
 https://github.com/ardalis/kata-catalog/blob/master/katas/Red%20Pencil%20Sale.md
 
 en la kata:
 https://www.meetup.com/es-ES/Barcelona-Software-Craftsmanship/events/233824572/
 
+Sobre cómo usar Pharo lee: https://github.com/meetsCode/Introduccion-PharoSmalltalk 
+ 
 La intención del ejercicio es no solo implementar la exigencia del cliente en el paradigma de VCM de un lenguaje POO como es Smalltalk sino también sufrir los continuos cambios en los requerimientos que pide el cliente. Para ello no implementaremos cada uno de los 6 puntos del apartado “Instructions” de golpe sino uno a uno ignorando los siguientes. Para poder mostrar la evolución, tras cubrir cada punto, guardaré la versión en Gitup en un paquete de tipo Monticelo (= extensión .mcz). 
 
 Para este ejercicio usaré una imagen Pharo5.0
